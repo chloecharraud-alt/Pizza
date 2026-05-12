@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff5e6;
+    color: #333;
+}
+
+header {
+    background-color: #d62828;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+.hero img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.about,
+.menu,
+.contact {
+    padding: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #d62828;
+    margin-bottom: 20px;
+}
+
+.pizza-card {
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.pizza-card h3 {
+    margin-top: 0;
+}
+
+.pizza-card span {
+    font-weight: bold;
+    color: #d62828;
+    font-size: 20px;
+}
+
+button {
+    background-color: #f77f00;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d62828;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
