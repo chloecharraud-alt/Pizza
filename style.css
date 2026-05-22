@@ -67,17 +67,6 @@ h2 {
     font-size: 20px;
 }
 
-/* BOUTON */
-button {
-    background-color: #f77f00;
-    color: white;
-    border: none;
-    padding: 15px 30px;
-    font-size: 18px;
-    border-radius: 10px;
-    cursor: pointer;
-}
-
 button:hover {
     background-color: #d62828;
 }
